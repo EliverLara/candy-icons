@@ -7,4 +7,5 @@ Then copy the icon to your icons folder.
 
 # Icons I've Added
 - Firefox
-- Retroarch Ver 1.0
+- Retroarch
+- Krita
