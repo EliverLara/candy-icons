@@ -166,7 +166,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +178,7 @@
     <g
        id="g1067"
        style="stroke:url(#linearGradient1166);stroke-width:4.41089344;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(1.1076473,0,0,1.5787859,-12.021573,-70.595902)">
+       transform="matrix(1.0847059,0,0,1.5799852,-9.9497781,-70.754792)">
       <path
          inkscape:connector-curvature="0"
          id="path877"
