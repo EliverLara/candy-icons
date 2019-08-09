@@ -9,3 +9,4 @@ Then copy the icon to your icons folder.
 - Firefox
 - Retroarch
 - Krita
+- LightDM
