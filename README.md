@@ -6,6 +6,7 @@ To upgrade icons without having to download the entire folder again, simply save
 Then copy the icon to your icons folder.
 
 # Icons Added in this Fork
+apps/scalable:
 - Firefox
 - Retroarch
 - Krita
