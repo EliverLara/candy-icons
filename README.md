@@ -10,4 +10,5 @@ apps/scalable:
 - Firefox
 - Retroarch
 - Krita
-- LightDM
+- LightDM GTK+ Greeter Settings
+- WhatsApp
