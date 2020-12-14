@@ -15,7 +15,7 @@
    height="48pt"
    version="1.1"
    id="svg9"
-   sodipodi:docname="text-x-generic (copy).svg"
+   sodipodi:docname="text-html.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata15">
@@ -48,75 +48,15 @@
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-global="true"
-     inkscape:zoom="23.492178"
-     inkscape:cx="30.909848"
-     inkscape:cy="24.737986"
+     inkscape:zoom="8.3057392"
+     inkscape:cx="19.685498"
+     inkscape:cy="15.161246"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9"
      inkscape:object-paths="true"
-     inkscape:snap-midpoints="true">
-    <sodipodi:guide
-       position="17.3751,15"
-       orientation="0,1"
-       id="guide838"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="11.619,24.375"
-       orientation="0,1"
-       id="guide840"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="8.619,36.177966"
-       orientation="1,0"
-       id="guide842"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="39.381,28.372881"
-       orientation="1,0"
-       id="guide844"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="14.9295,24.375"
-       orientation="1,0"
-       id="guide846"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="33.6795,24.375"
-       orientation="1,0"
-       id="guide848"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="24.679449,39.305085"
-       orientation="1,0"
-       id="guide856"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="17.9295,29.562412"
-       orientation="1,0"
-       id="guide858"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="30.6795,33.094586"
-       orientation="1,0"
-       id="guide860"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
+     inkscape:snap-midpoints="true" />
   <linearGradient
      id="_lgradient_25"
      x1="0.22078557924020603"
