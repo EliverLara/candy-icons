@@ -45,8 +45,8 @@ MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable]
-Size=16
-Context=Mimetypes
+Size=96
+Context=MimeTypes
 Type=Scalable
 MinSize=8
 MaxSize=256
