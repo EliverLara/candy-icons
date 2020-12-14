@@ -5,7 +5,7 @@ Inherits=breeze-dark,gnome,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 
 # Directory list
-Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable
+Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable
 
 
 [Apps]
@@ -43,6 +43,13 @@ Size=96
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+[mimetypes/scalable]
+Size=16
+Context=Mimetypes
+Type=Scalable
+MinSize=8
+MaxSize=256
 
 [places/16]
 Size=16
