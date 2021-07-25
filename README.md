@@ -1,14 +1,6 @@
 ![](preview/candy.png)
 
-<div width="500">
-
-![](preview/icons.png)
-
-</div>
-
 >An icon theme colored with sweet gradients
-
-
 
 ## Installation
 
@@ -24,5 +16,10 @@ To set the theme in Gnome, run the following commands in Terminal:
 
 or Change via distribution specific `tweak-tool`.
 
-## Extras
+## Previews
 
+![](preview/icons.png)
+
+You can also combine this icon pack with [sweet-folders](https://github.com/EliverLara/Sweet-folders) to get an awesome custom experience:
+
+![](preview/folders.png)
