@@ -2,22 +2,21 @@
 <!-- Generator: Gravit.io -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="isolation:isolate"
    viewBox="0 0 48 48"
    width="48pt"
    height="48pt"
    version="1.1"
    id="svg16"
-   sodipodi:docname="preferences-system-bluetooth(2).svg"
-   inkscape:version="0.92.4 (unknown)">
+   sodipodi:docname="preferences-system-bluetooth.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -30,26 +29,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs20">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#_lgradient_3"
-       id="linearGradient851"
-       x1="6.4849763"
-       y1="24.149208"
-       x2="41.593697"
-       y2="24.149208"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#_lgradient_3"
-       id="linearGradient853"
-       x1="13.5"
-       y1="24.719006"
-       x2="36.083672"
-       y2="24.719006"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs20" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -59,18 +39,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="723"
+     inkscape:window-width="1536"
+     inkscape:window-height="806"
      id="namedview18"
      showgrid="true"
      showguides="false"
      inkscape:zoom="7.0280686"
-     inkscape:cx="26.212914"
-     inkscape:cy="32"
+     inkscape:cx="26.323021"
+     inkscape:cy="32.014485"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16">
+     inkscape:current-layer="g843"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt">
     <inkscape:grid
        type="xygrid"
        id="grid831" />
@@ -121,12 +103,12 @@
        height="44.638962"
        width="32.272842"
        id="rect839"
-       style="opacity:1;fill:#96b2ae;fill-opacity:0.04048582;stroke:url(#linearGradient851);stroke-width:2.83587623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;fill:#96b2ae;fill-opacity:0.04048582;stroke:#81a1c1;stroke-width:2.83587623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <path
        sodipodi:nodetypes="ccccccccccc"
        inkscape:connector-curvature="0"
        id="path837"
        d="M 15,29.25 V 36 l 7.5,-7.5 V 39.75 L 33.75,33.925608 26.25,24.75 33.75,15.890781 22.5,9.75 V 21 L 15,13.5 v 6.75"
-       style="fill:none;stroke:url(#linearGradient853);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#81a1c1;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

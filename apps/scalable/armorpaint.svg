@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 48 48" width="48pt" height="48pt"><linearGradient id="_lgradient_8" x1="0.03989361702127648" y1="0.9662566489361708" x2="0.7776922359089218" y2="0.09749877519596872" gradientTransform="matrix(47,0,0,45.576,0.5,1.212)" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-opacity="1" style="stop-color:rgb(249,212,35)"/><stop offset="51.56237565086822%" stop-opacity="1" style="stop-color:rgb(255,78,80)"/><stop offset="99.1304347826087%" stop-opacity="1" style="stop-color:rgb(138,35,135)"/></linearGradient><path d=" M 36.982 44.829 L 37.53 46.788 L 47.5 46.788 L 33.258 1.212 L 21.864 1.212 L 0.5 41.091 L 0.5 46.788 L 7.621 46.788 L 17.511 29.127 C 18.961 29.311 20.389 29.636 21.778 30.11 C 23.615 30.737 25.367 31.62 26.962 32.716 C 28.686 33.927 30.267 35.337 31.648 36.918 C 33.243 38.755 34.653 40.735 35.864 42.857 L 36.982 44.829 Z  M 32.19 27.715 L 27.561 11.182 L 21.196 22.548 C 22.168 22.769 23.128 23.039 24.071 23.359 C 26.535 24.214 28.871 25.382 31.022 26.863 C 31.417 27.138 31.807 27.423 32.19 27.715 Z " fill-rule="evenodd" fill="url(#_lgradient_8)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="armorpaint.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1536"
+     inkscape:window-height="806"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <linearGradient
+     id="_lgradient_8"
+     x1="0.03989361702127648"
+     y1="0.9662566489361708"
+     x2="0.7776922359089218"
+     y2="0.09749877519596872"
+     gradientTransform="matrix(47,0,0,45.576,0.5,1.212)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(249,212,35)"
+       id="stop2" />
+    <stop
+       offset="51.56237565086822%"
+       stop-opacity="1"
+       style="stop-color:rgb(255,78,80)"
+       id="stop4" />
+    <stop
+       offset="99.1304347826087%"
+       stop-opacity="1"
+       style="stop-color:rgb(138,35,135)"
+       id="stop6" />
+  </linearGradient>
+  <path
+     d=" M 36.982 44.829 L 37.53 46.788 L 47.5 46.788 L 33.258 1.212 L 21.864 1.212 L 0.5 41.091 L 0.5 46.788 L 7.621 46.788 L 17.511 29.127 C 18.961 29.311 20.389 29.636 21.778 30.11 C 23.615 30.737 25.367 31.62 26.962 32.716 C 28.686 33.927 30.267 35.337 31.648 36.918 C 33.243 38.755 34.653 40.735 35.864 42.857 L 36.982 44.829 Z  M 32.19 27.715 L 27.561 11.182 L 21.196 22.548 C 22.168 22.769 23.128 23.039 24.071 23.359 C 26.535 24.214 28.871 25.382 31.022 26.863 C 31.417 27.138 31.807 27.423 32.19 27.715 Z "
+     fill-rule="evenodd"
+     fill="url(#_lgradient_8)"
+     id="path9"
+     style="fill:#d08770;fill-opacity:1" />
+</svg>

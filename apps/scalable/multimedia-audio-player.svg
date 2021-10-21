@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="multimedia-audio-player.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="multimedia-audio-player.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3905">
     <linearGradient
@@ -283,15 +283,6 @@
          style="stop-color:#4FACFE"
          id="stop12" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient894"
-       id="linearGradient883"
-       x1="0.49608999"
-       y1="23.881371"
-       x2="47.49609"
-       y2="23.881371"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -301,17 +292,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.32268"
-     inkscape:cx="36.102752"
-     inkscape:cy="32.88791"
+     inkscape:cx="36.148404"
+     inkscape:cy="32.930445"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1536"
+     inkscape:window-height="806"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid824"
@@ -348,7 +340,7 @@
          width="52.591755" />
     </g>
     <path
-       style="fill:url(#linearGradient883);fill-opacity:1.0;stroke-width:0.09179749"
+       style="fill:#bf616a;fill-opacity:1;stroke-width:0.09179749"
        d="M 45.46582,1.61874 C 44.17552,0.5682 42.50124,0.15915 40.86661,0.49752 L 19.39138,5.00866 C 16.84686,5.5354 15,7.80373 15,10.40216 V 31 c -1.51355,-1.12691 -3.38823,-1.79465 -5.41602,-1.79465 -5.0111,0 -9.08789,4.07684 -9.08789,9.08801 0,5.01117 4.07679,9.08801 9.08789,9.08801 4.99742,0 9.06522,-4.05472 9.08734,-9.04707 0,-0.003 5.5e-4,-0.007 5.5e-4,-0.0103 V 17.6631 L 43.82422,12.31347 V 25.125 c -1.51355,-1.12701 -3.38823,-1.79475 -5.41602,-1.79475 -5.0111,0 -9.08789,4.07685 -9.08789,9.08801 0,5.01117 4.07679,9.08801 9.08789,9.08801 0.98278,0 1.95022,-0.15642 2.87554,-0.46486 0.96194,-0.32065 1.48178,-1.36045 1.16114,-2.32231 -0.32065,-0.96195 -1.36071,-1.48181 -2.32228,-1.16115 -0.55032,0.18341 -1.12708,0.2764 -1.7144,0.2764 -2.98643,0 -5.41602,-2.42962 -5.41602,-5.41609 0,-2.98647 2.42959,-5.41609 5.41602,-5.41609 2.98643,0 5.41602,2.42962 5.41602,5.41609 v 0.0122 c 0,1.014 0.82194,1.83596 1.83593,1.83596 1.01399,0 1.83594,-0.82196 1.83594,-1.83596 v -26.54048 0 0 c 0,-1.66393 -0.74007,-3.22073 -2.03027,-4.27127 z M 9.58398,43.70945 c -2.98643,0 -5.41601,-2.42962 -5.41601,-5.41609 0,-2.98647 2.42958,-5.41609 5.41601,-5.41609 2.98643,0 5.41602,2.42962 5.41602,5.41609 0,2.98647 -2.42959,5.41609 -5.41602,5.41609 z m 9.08789,-33.30729 c 0,-0.8662 0.61568,-1.62225 1.46912,-1.79896 L 41.61613,4.09215 c 0.12475,-0.0258 0.25024,-0.0386 0.37481,-0.0386 0.41786,0 0.82516,0.14293 1.15655,0.41263 0.43007,0.35021 0.67673,0.86915 0.67673,1.42379 v 2.6694 l -25.15235,5.34962 z"
        id="path15"
        inkscape:connector-curvature="0"
