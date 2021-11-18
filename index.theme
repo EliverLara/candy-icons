@@ -2,7 +2,7 @@
 Name=candy-icons
 Comment=Sweet gradient icons.
 Inherits=breeze-dark,gnome,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
-
+FollowsColorScheme=true
 
 # Directory list
 Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable
