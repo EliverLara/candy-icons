@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 48 48" width="48pt" height="48pt"><linearGradient id="grad" x1="20" y1="12" x2="19" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#43e97b"/><stop offset="98%" stop-color="#38f9d7"/></linearGradient><path d="
 M 4 43
-C 4 44.108 4.892 45 6 45
+c 0 1.108 0.892 2 2 2
     H 16
     V 17
     H 30
     V 4
     H 6
-C 4.892 4 4 4.892 4 6
+c -1.108 0 -2 0.892 -2 2
 Z
 
 M 32 4
     V 45
     H 42
-C 43.108 45 44 44.108 44 43
+c 1.108 0 2 -0.892 2 -2
     V 6
-C 44 4.892 43.108 4 42 4
+c 0 -1.108 -0.892 -2 -2 -2
 Z
 
 M 18 18
