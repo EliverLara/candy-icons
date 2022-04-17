@@ -29,43 +29,6 @@
          offset="1"
          id="stop5469" />
     </linearGradient>
-    <inkscape:path-effect
-       effect="bend_path"
-       id="path-effect1362"
-       is_visible="true"
-       lpeversion="1"
-       bendpath="m 73.238809,25.730282 24.582499,4.607566"
-       prop_scale="1"
-       scale_y_rel="false"
-       vertical="false"
-       hide_knot="false" />
-    <inkscape:path-effect
-       effect="bend_path"
-       id="path-effect1211"
-       is_visible="true"
-       lpeversion="1"
-       bendpath="M 14.326172,14.928223 9.3254048,10.005893"
-       prop_scale="1"
-       scale_y_rel="false"
-       vertical="false"
-       hide_knot="false" />
-    <linearGradient
-       id="linearGradient889"
-       x2="35.646019"
-       y1="13.19636"
-       y2="43.453506"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-3.4214452,-1.174175)"
-       x1="35.77496">
-      <stop
-         style="stop-color:#f76808"
-         offset="0"
-         id="stop38" />
-      <stop
-         style="stop-color:#f8741c"
-         offset="1"
-         id="stop40" />
-    </linearGradient>
     <linearGradient
        id="linearGradient897"
        x2="36.096313"
@@ -105,9 +68,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="22.627416"
-     inkscape:cx="31.046408"
-     inkscape:cy="44.260467"
+     inkscape:zoom="5.656854"
+     inkscape:cx="67.617089"
+     inkscape:cy="35.443729"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -130,9 +93,6 @@
      id="g849"
      transform="matrix(0.98,0,0,0.98,0.48000483,0.48)"
      style="stroke-width:1.02041">
-    <g
-       id="g843"
-       style="stroke-width:1.02041">
       <path
          id="rect3668"
          style="display:inline;fill:#f9f9f9;stroke-width:6.42135"
@@ -144,11 +104,10 @@
          style="fill:#f9f9f9;stroke-width:4.816"
          d="m 2.094815,32.397883 -0.4913459,0.0015 0.8061461,1.978335 9.0337068,-0.03592 v -1.943847 z"
          sodipodi:nodetypes="cccccc" />
-    </g>
-    <path
-       id="rect5848-5"
-       style="isolation:isolate;fill:#f9f9f9;stroke-width:4.816"
-       d="m 46.097121,32.538527 0.404753,0.0015 -0.786445,1.978335 -8.262306,-0.03592 v -1.943847 z"
-       sodipodi:nodetypes="cccccc" />
+      <path
+         id="rect5848-5"
+         style="isolation:isolate;fill:#f9f9f9;stroke-width:4.816"
+         d="m 46.097121,32.538527 0.404753,0.0015 -0.786445,1.978335 -8.262306,-0.03592 v -1.943847 z"
+         sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
