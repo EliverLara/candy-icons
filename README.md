@@ -17,6 +17,7 @@ To install Candy-icons with commands, we go to the user's download directory and
 Now we enter the directory that we downloaded and enter the following commands:
 
     cd candy-icons
+    chmod +x install.sh
     ./install.sh
     
 Once all the commands have been executed, we only have to check the download by checking if the icons appear in the system settings.
