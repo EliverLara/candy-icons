@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 48 48" width="48pt" height="48pt"><linearGradient id="g" x1="20" y1="12" x2="19" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#43e97b"/><stop offset="98%" stop-color="#38f9d7"/></linearGradient><path d="M 2 44 c 0 1.108 0.892 2 2 2 H 15 V 15 H 30 V 2 H 4 c -1.108 0 -2 0.892 -2 2 Z M 33 2 V 46 H 44 c 1.108 0 2 -0.892 2 -2 V 4 c 0 -1.108 -0.892 -2 -2 -2 Z M 18 18 V 46 H 30 V 18 Z" fill-rule="evenodd" fill="url(#g)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <linearGradient
+       xlink:href="#g"
+       id="linearGradient902"
+       x1="0.5"
+       y1="24"
+       x2="47.5"
+       y2="24"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0526315,0,0,1.0526314,-1.263158,-1.2631558)" />
+  </defs>
+  <linearGradient
+     id="g"
+     x1="20"
+     y1="12"
+     x2="19"
+     y2="50"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-color="#43e97b"
+       id="stop2" />
+    <stop
+       offset="98%"
+       stop-color="#38f9d7"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="m 0.84210515,45.05263 c 0,1.166315 0.93894735,2.105263 2.10526305,2.105263 H 14.526316 V 14.526317 H 30.315789 V 0.84210715 H 2.9473682 c -1.1663157,0 -2.10526305,0.93894715 -2.10526305,2.10526285 z M 33.473684,0.84210715 V 47.157893 h 11.578948 c 1.166316,0 2.105263,-0.938948 2.105263,-2.105263 V 2.94737 c 0,-1.1663157 -0.938947,-2.10526285 -2.105263,-2.10526285 z M 17.684211,17.684211 V 47.157893 H 30.315789 V 17.684211 Z"
+     fill-rule="evenodd"
+     fill="url(#g)"
+     id="path7"
+     style="fill:none;stroke:url(#linearGradient902);stroke-width:1.68421;stroke-dasharray:none" />
+</svg>
