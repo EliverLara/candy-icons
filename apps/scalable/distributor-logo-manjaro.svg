@@ -8,9 +8,33 @@
    height="48pt"
    version="1.1"
    id="svg9"
+   sodipodi:docname="manjaro-welcome.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1466"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="14.09375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="2560"
+     inkscape:window-height="1032"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
   <defs
      id="defs13">
     <linearGradient
@@ -40,9 +64,7 @@
        id="stop4" />
   </linearGradient>
   <path
-     d="m 0.84210515,45.05263 c 0,1.166315 0.93894735,2.105263 2.10526305,2.105263 H 14.526316 V 14.526317 H 30.315789 V 0.84210715 H 2.9473682 c -1.1663157,0 -2.10526305,0.93894715 -2.10526305,2.10526285 z M 33.473684,0.84210715 V 47.157893 h 11.578948 c 1.166316,0 2.105263,-0.938948 2.105263,-2.105263 V 2.94737 c 0,-1.1663157 -0.938947,-2.10526285 -2.105263,-2.10526285 z M 17.684211,17.684211 V 47.157893 H 30.315789 V 17.684211 Z"
-     fill-rule="evenodd"
-     fill="url(#g)"
-     id="path7"
-     style="fill:none;stroke:url(#linearGradient902);stroke-width:1.68421;stroke-dasharray:none" />
+     style="color:#000000;fill:url(#linearGradient902);fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 2.9472656,0 C 1.3289915,0 0,1.3289914 0,2.9472656 V 45.052734 C 0,46.671008 1.3289911,48 2.9472656,48 H 15.369141 V 15.369141 H 31.158203 V 0 Z M 32.630859,0 V 0.84179688 48 H 45.052734 C 46.671009,48 48,46.671008 48,45.052734 V 2.9472656 C 48,1.3289916 46.671009,0 45.052734,0 Z M 2.9472656,1.6835937 H 29.474609 V 13.683594 H 13.683594 V 46.316406 H 2.9472656 c -0.7143546,0 -1.2636718,-0.549318 -1.2636719,-1.263672 V 2.9472656 c 0,-0.7143549 0.5493169,-1.2636718 1.2636719,-1.2636719 z m 31.3691404,0 h 10.736328 c 0.714356,10e-8 1.263672,0.5493169 1.263672,1.2636719 V 45.052734 c 0,0.714354 -0.549317,1.263672 -1.263672,1.263672 H 34.316406 Z M 16.841797,16.841797 V 17.683594 48 H 31.158203 V 16.841797 Z m 1.683594,1.683594 H 29.474609 V 46.316406 H 18.525391 Z"
+     id="path7" />
 </svg>
