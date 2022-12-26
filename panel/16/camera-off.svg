@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m14 14.977v.023h-12v-1s0-2 2-2h.688c-1.617-1.075-2.688-2.913-2.688-5 0-1.121.307-2.17.843-3.068l-1.207-1.199 1.205-1.213 12.341 12.268zm-10.427-10.319c-.376.702-.589 1.501-.589 2.346 0 2.752 2.264 5.017 5.016 5.017.856 0 1.665-.219 2.373-.604l-2.632-2.616c-.791-.114-1.418-.738-1.536-1.527zm1.109-2.658c.95-.632 2.091-1 3.318-1 3.314 0 6 2.686 6 6 0 1.213-.362 2.342-.982 3.286l-.718-.713c.454-.753.716-1.633.716-2.569 0-2.752-2.264-5.017-5.016-5.017-.947 0-1.836.268-2.595.732zm3.211 3.192c.035-.002.071-.003.107-.003 1.002 0 1.815.813 1.815 1.815 0 .032-.001.064-.003.096z"/>
+</svg>

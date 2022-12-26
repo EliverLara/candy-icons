@@ -1,0 +1,14 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="7" y="11" width="3" height="1" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <rect x="7" y="13" width="3" height="1" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ <g transform="matrix(-.707107 .707107 -.707107 -.707107 0 0)">
+  <rect x="-2.22" y="-7.82" width="3" height="1" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="matrix(-.707107 .707107 -.707107 -.707107 0 0)">
+  <rect x="-2.22" y="-5.82" width="3" height="1" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="matrix(-.722221 -.722221 .80588 -.80588 -.495884 .113996)">
+  <rect x="-12.82" y="4.2" width="3" height="3" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <path d="m8.5 5c-1.38 0-2.5 1.119-2.5 2.5s1.12 2.5 2.5 2.5 2.5-1.119 2.5-2.5-1.12-2.5-2.5-2.5zm0 0.516c1.098 0 1.984 0.889 1.984 1.984s-0.886 1.984-1.984 1.984-1.984-0.889-1.984-1.984 0.886-1.984 1.984-1.984z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+</svg>

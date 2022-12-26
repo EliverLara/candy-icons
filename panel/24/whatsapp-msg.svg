@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m5.028 3.627c-.63 0-1.26.692-1.362.834l-.041.041-.02.061c-.874 2.013 2.074 5.042 2.44 5.408.285.285 2.684 2.582 4.615 2.582.305 0 .57-.061.814-.162l.061-.021.04-.04c.183-.143 1.098-.956.773-1.688-.122-.285-1.118-1.342-2.379-1.545l-.081-.021-.082.021c-.061.02-.488.101-1.098.508-.203-.102-.609-.386-1.28-1.037-.651-.651-.936-1.057-1.037-1.26.386-.61.488-1.037.508-1.078l.02-.081-.02-.082c-.203-1.26-1.281-2.236-1.566-2.379-.081-.04-.183-.061-.305-.061z"/>
+ <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m8 1c3.863 0 7 3.137 7 7s-3.137 7-7 7-7-3.137-7-7 3.137-7 7-7zm0 1c3.311 0 6 2.689 6 6s-2.689 6-6 6-6-2.689-6-6 2.689-6 6-6z"/>
+ <circle style="fill:currentColor" class="ColorScheme-Highlight" cx="3.5" cy="13.5" r="1.5" fill="#4285f4"/>
+</svg>

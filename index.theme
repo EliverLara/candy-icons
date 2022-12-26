@@ -5,8 +5,7 @@ Inherits=breeze-dark,Adwaita,hicolor
 FollowsColorScheme=true
 
 # Directory list
-Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable
-
+Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable,panel/16,panel/16@2,panel/22,panel/22@2,panel/24,panel/24@2
 
 [Apps]
 Context=Applications
@@ -99,3 +98,36 @@ Context=Emblems
 Type=Scalable
 MinSize=8
 MaxSize=512
+
+[panel/16]
+Context=Status
+Size=16
+Type=Fixed
+
+[panel/16@2]
+Context=Status
+Size=16
+Scale=2
+Type=Fixed
+
+[panel/22]
+Context=Status
+Size=22
+Type=Fixed
+
+[panel/22@2]
+Context=Status
+Size=22
+Scale=2
+Type=Fixed
+
+[panel/24]
+Context=Status
+Size=24
+Type=Fixed
+
+[panel/24@2]
+Context=Status
+Size=24
+Scale=2
+Type=Fixed

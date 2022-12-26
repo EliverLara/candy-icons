@@ -1,0 +1,11 @@
+<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -.24938)">
+  <rect x="4" y="1" width="8" height="3" style="fill-opacity:.5;fill-rule:nonzero;fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(0 .227047)">
+  <path d="m2 4c-0.5 0-1 0.5-1 1v3.444l2 0.023v-0.467h10v0.467l2-0.023v-3.444c0-0.5-0.5-1-1-1h-12zm10 0.457c0.531 0 0.963 0.431 0.963 0.962 0 0.532-0.432 0.963-0.963 0.963s-0.963-0.431-0.963-0.963c0-0.531 0.432-0.962 0.963-0.962z" style="fill:rgb(223,223,223)"/>
+ </g>
+ <g transform="translate(0 5.24938)">
+  <path d="m2 4c-0.5 0-1 0.5-1 1v4c0 0.5 0.5 1 1 1h1v-2h10v2h1c0.5 0 1-0.5 1-1v-4c0-0.5-0.5-1-1-1h-12zm10 0.457c0.531 0 0.963 0.431 0.963 0.962 0 0.532-0.432 0.963-0.963 0.963s-0.963-0.431-0.963-0.963c0-0.531 0.432-0.962 0.963-0.962z" style="fill:rgb(223,223,223)"/>
+ </g>
+</svg>
