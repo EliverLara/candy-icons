@@ -5,7 +5,7 @@ Inherits=Adwaita
 FollowsColorScheme=true
 
 # Directory list
-Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable
+Directories=places/48,apps/scalable,devices/scalable,mimetypes/scalable
 
 [apps/scalable]
 Size=96
@@ -21,25 +21,11 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[preferences/scalable]
-Size=96
-Context=Applications
-MinSize=8
-MaxSize=512
-Type=Scalable
-
 [mimetypes/scalable]
 Size=96
 Context=MimeTypes
 MinSize=8
 MaxSize=256
-Type=Scalable
-
-[places/16]
-Size=16
-Context=Places
-MinSize=8
-MaxSize=32
 Type=Scalable
 
 [places/48]
