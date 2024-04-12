@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="smartphonedisconnected.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-NeutralText {
+            color:#f67400;
+        }
+        .ColorScheme-Text {
+            color:#232629;
+        }</style>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#dc508d;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#f58b7b;stop-opacity:1;"
+         offset="0.50631177"
+         id="stop6" />
+      <stop
+         style="stop-color:#38f9d7;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="6.5920248"
+       y1="18.422985"
+       x2="16"
+       y2="3.4026248"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     id="smartphone"
+     class="ColorScheme-Text"
+     d="m8 3c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1zm0.5 1a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5zm1 11c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z"
+     fill="currentColor"
+     style="fill:url(#linearGradient3)" />
+  <path
+     class="ColorScheme-NeutralText"
+     d="m10.766 7.5137a2 2 0 0 0-1.7676 1.8965 2 2 0 0 0 0 0.08984h1a1 1 0 0 1 0.88281-0.99414h0.11524v-0.99219h-0.23047zm0.23242 2e-3v1a1 1 0 0 1 0.99414 0.88281v0.11523h0.0059a1 1 0 0 1-0.88281 0.99414l-0.11528-4.7e-5v-0.0078a2 2 0 0 0-0.19922 2e-3 2 2 0 0 0-0.80078 0.2187v-0.20703h-2e-3v2h1v-1.0137h0.23247a2 2 0 0 0 1.7676-1.8965 2 2 0 0 0 0-0.08984h-0.01367v-0.23047a2 2 0 0 0-1.8965-1.7676 2 2 0 0 0-0.08984 0zm-0.99805 5.9843v1h1v-1z"
+     fill="currentColor"
+     id="path1" />
+</svg>
