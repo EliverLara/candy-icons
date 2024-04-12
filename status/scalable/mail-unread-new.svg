@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mail-unread-new.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="11"
+       y1="19"
+       x2="11"
+       y2="3"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ae00ff;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient2"
+       x1="14.999998"
+       y1="16"
+       x2="20.999998"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#fcfcfc;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  <path
+     style="fill:url(#linearGradient2)"
+     d="m 17.999998,13 -0.574219,1.613281 -1.546875,-0.734375 0.734375,1.546875 L 14.999998,16 16.613279,16.574219 15.878904,18.121094 17.425779,17.386719 17.999998,19 18.574217,17.386719 20.121092,18.121094 19.386717,16.574219 20.999998,16 l -1.613281,-0.574219 0.734375,-1.546875 -1.546875,0.734375 z"
+     id="path3" />
+  <path
+     id="rect4144"
+     style="color:#fcfcfc;fill:url(#linearGradient5);fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 3 3 C 1.000002 3 1 5 1 5 L 1 17 C 1 17 1.000002 19 3 19 L 14.949219 19 L 14.949219 18 L 2.5683594 18 C 1.9832601 17.972071 1.9109537 17.539363 2 17.414062 L 2.4628906 16.951172 L 8.7304688 10.683594 L 11 12.951172 L 13.269531 10.683594 L 15.587891 13.001953 C 15.59455 13.001756 15.600713 13 15.607422 13 L 17 13 L 13.976562 9.9765625 L 19.476562 4.4765625 C 19.647698 4.3225344 19.992188 4.3162099 20 4.8203125 L 20 13 L 21 13 L 21 5 C 21 5 20.999998 3 19 3 L 3 3 z M 3.4628906 4 L 18.537109 4 L 11 11.537109 L 3.4628906 4 z M 2.3535156 4.4296875 C 2.4150677 4.4208237 2.4800167 4.4385248 2.5429688 4.4941406 L 8.0234375 9.9765625 L 2 16 L 2 4.90625 C 2.0113767 4.7216167 2.1688593 4.4562788 2.3535156 4.4296875 z " />
+</svg>
