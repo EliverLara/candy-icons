@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="rotation-locked-portrait.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3361ff;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#33ffe2;stop-opacity:1;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="_lgradient_0"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientTransform="matrix(18.855645,0,0,32.882135,-33.999952,5.719061)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-opacity="1"
+         style="stop-color:rgb(84,51,255)"
+         id="stop1" />
+      <stop
+         offset="51.73913043478261%"
+         stop-opacity="1"
+         style="stop-color:rgb(32,189,255)"
+         id="stop2" />
+      <stop
+         offset="98.26086956521739%"
+         stop-opacity="1"
+         style="stop-color:rgb(165,254,203)"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="_lgradient_1"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientTransform="matrix(8.9089904,0,0,18.985761,-28.356197,12.666903)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-opacity="1"
+         style="stop-color:rgb(247,242,6)"
+         id="stop4" />
+      <stop
+         offset="97.82608695652173%"
+         stop-opacity="1"
+         style="stop-color:rgb(255,187,36)"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient7"
+       x1="3"
+       y1="11"
+       x2="19"
+       y2="11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,1,0,0,0)" />
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f7f206;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#ffbb24;stop-opacity:1;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient8"
+       x1="13"
+       y1="16"
+       x2="18"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="svg2" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+  <path
+     d="M 15.5,13 C 14.671573,13 14,13.671573 14,14.5 V 16 c 0,0 -1,0 -1,0.988038 C 13,17.976075 13,17 13,18 c 0,1 1,1 1,1 h 3 c 0,0 1,0 1,-1 0,-1 0,0 0,-1 0,-1 -1,-1 -1,-1 V 14.5 C 17,13.671573 16.328427,13 15.5,13 Z m 0,1 c 0.276142,0 0.5,0.223858 0.5,0.5 V 16 H 15 V 14.5 C 15,14.223858 15.223858,14 15.5,14 Z"
+     fill-rule="evenodd"
+     id="path2"
+     style="color:#fcfcfc;fill:url(#linearGradient8);fill-opacity:1" />
+  <path
+     id="path2-3"
+     style="color:#fcfcfc;fill:url(#linearGradient7);fill-opacity:1"
+     d="M 9 3 C 9 3 6 3.000003 6 6 L 6 16 C 6 18.999997 9 19 9 19 L 12 19 L 12 18 L 9 18 C 9 18 7 17.999998 7 16 L 7 6 C 7 4.000002 9 4 9 4 L 13 4 C 14.999998 4 15 6 15 6 L 15 12 L 16 12 L 16 6 C 16 6 16.000798 3 12.978516 3 L 9 3 z " />
+</svg>
