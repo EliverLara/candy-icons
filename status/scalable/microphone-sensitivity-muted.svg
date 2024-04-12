@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="microphone-sensitivity-muted.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="linearGradient9"
+       x1="3"
+       y1="11"
+       x2="13"
+       y2="11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.63e-4)" />
+    <linearGradient
+       id="linearGradient8"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#da3de8;stop-opacity:1;"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#e3424d;stop-opacity:1;"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="svg5" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <path
+     id="path4-6"
+     style="color:#fcfcfc;fill:url(#linearGradient9);fill-opacity:1"
+     d="M 8 3 C 7.2024189 3 6.4787625 3.3126513 5.9414062 3.8203125 L 6.7070312 4.5859375 C 7.0559838 4.2215173 7.5059761 4 8 4 C 9.1045659 4 10 5.0994745 10 6.4550781 L 10 7.8789062 L 11 8.8789062 L 11 6 C 11 4.3431507 9.6568493 3 8 3 z M 5.0136719 5.7207031 C 5.0051581 5.8127899 5 5.9056906 5 6 L 5 11 C 5 12.656848 6.3431511 14 8 14 C 9.437835 14 10.639096 12.988924 10.931641 11.638672 L 9.9941406 10.701172 C 9.9279277 11.983362 9.0614214 13 8 13 C 6.895434 13 6 11.900526 6 10.544922 L 6 6.7070312 L 5.0136719 5.7207031 z M 3.5 8.5 A 0.5 0.5 0 0 0 3 9 L 3 11 C 3 13.418999 4.7177005 15.43717 7 15.900391 L 7 18 L 5 18 A 0.5 0.5 0 0 0 4.5 18.5 A 0.5 0.5 0 0 0 5 19 L 11 19 A 0.5 0.5 0 0 0 11.5 18.5 A 0.5 0.5 0 0 0 11 18 L 9 18 L 9 15.900391 C 10.53855 15.588123 11.816139 14.567282 12.488281 13.195312 L 11.732422 12.439453 C 11.154276 13.936966 9.701423 15 8 15 C 5.7908654 15 4 13.209135 4 11 L 4 9 A 0.5 0.5 0 0 0 3.5 8.5 z M 12.5 8.5 A 0.5 0.5 0 0 0 12 9 L 12 9.8789062 L 13 10.878906 L 13 9 A 0.5 0.5 0 0 0 12.5 8.5 z " />
+  <path
+     id="path2059-6-2"
+     style="fill:#b3b3b3;fill-opacity:0.5;stroke-width:0.871748"
+     d="M 16.689453 5.6679688 C 16.560937 5.6733109 16.431447 5.7140771 16.320312 5.7929688 C 16.023863 6.0033455 15.962121 6.4034723 16.181641 6.6875 C 17.11329 7.8928558 17.664062 9.3839806 17.664062 11 C 17.664062 12.297004 17.309166 13.513583 16.6875 14.566406 L 17.646484 15.525391 C 18.504094 14.213573 19 12.661179 19 11 C 19 9.1004259 18.352068 7.3440668 17.255859 5.9257812 C 17.11861 5.7482646 16.903647 5.6590652 16.689453 5.6679688 z " />
+  <path
+     id="path2061-7-7"
+     style="fill:#b3b3b3;fill-opacity:0.5;stroke-width:0.871748"
+     d="M 14.994141 7.8242188 C 14.886447 7.8240696 14.777131 7.8497613 14.675781 7.9023438 C 14.351312 8.0706116 14.23065 8.4587036 14.40625 8.7695312 C 14.78071 9.4323646 14.992188 10.19131 14.992188 11 C 14.992188 11.556858 14.890219 12.089381 14.705078 12.583984 L 15.712891 13.591797 C 16.107781 12.80718 16.328125 11.927681 16.328125 11 C 16.328125 9.973286 16.057578 9.0054624 15.580078 8.1601562 C 15.459353 7.9464485 15.231066 7.8245469 14.994141 7.8242188 z " />
+  <path
+     d="M 3.8533525,2.4394531 3.1463215,3.146484 3.4998375,3.5 18.499836,18.5 18.853352,18.853515 19.560383,18.146484 19.206868,17.792968 4.2068685,2.7929687 Z"
+     class="ColorScheme-NegativeText"
+     fill="currentColor"
+     id="path6"
+     style="stroke:none;stroke-opacity:1" />
+</svg>
