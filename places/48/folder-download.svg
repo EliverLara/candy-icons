@@ -18,14 +18,17 @@
   <defs
      id="defs3">
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#_lgradient_2"
-       id="linearGradient5"
-       x1="1.229"
-       y1="28.495605"
-       x2="46.229"
-       y2="28.495605"
-       gradientUnits="userSpaceOnUse" />
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f96adb;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#bc31d2;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
     <linearGradient
        id="_lgradient_2"
        x1="0"
@@ -45,6 +48,15 @@
          style="stop-color:rgb(188,49,210)"
          id="stop2" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="1.704"
+       y1="13.875518"
+       x2="46.229"
+       y2="45.990967"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview3"
