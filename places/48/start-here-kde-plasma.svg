@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   version="1.1"
+   height="64"
+   id="svg1"
+   sodipodi:docname="start-here-kde-plasma.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.2371164"
+     inkscape:cx="24.072976"
+     inkscape:cy="53.456167"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5455">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e374ab;stop-opacity:1"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#fea75f;stop-opacity:1"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4326">
+      <stop
+         id="stop4328" />
+      <stop
+         offset="1"
+         style="stop-opacity:0"
+         id="stop4330" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4326"
+       id="linearGradient4434"
+       y1="502.798"
+       x1="439.57144"
+       y2="512.79803"
+       x2="429.57144"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0576931,0,0,1.0565947,-23.733265,-28.263319)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="420.04461"
+       y1="506.1601"
+       x2="444.37142"
+       y2="506.1601"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5458" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1 0 0 1 -384.57143 -483.798)">
+    <path
+       id="path4422"
+       d="m 426.39075,488.198 -6.34614,6.33955 11.63454,11.62264 -11.63454,11.62243 6.34614,6.33958 17.98067,-17.96201 z"
+       style="fill:url(#linearGradient3)" />
+    <rect
+       width="6.6106038"
+       x="399.68411"
+       y="489.2547"
+       rx="3.12501"
+       height="6.6037378"
+       style="fill:#fa8865;stroke-width:1.05723"
+       id="rect4119"
+       ry="3.12501" />
+    <flowRoot
+       line-height="125%"
+       style="font-size:32.500004;font-family:sans-serif"
+       id="flowRoot4170"><flowRegion
+         id="flowRegion4172"><rect
+           width="87.75001"
+           x="452.32144"
+           y="489.79807"
+           height="48.750004"
+           id="rect4174" /></flowRegion><flowPara
+         id="flowPara4176">Plasm</flowPara></flowRoot>
+    <rect
+       width="9.5192604"
+       x="389.37143"
+       y="509.8587"
+       rx="4.4999952"
+       height="9.509346"
+       style="fill:#63c605;stroke-width:1.05723"
+       id="rect4308"
+       ry="4.4999952" />
+    <rect
+       width="13.75001"
+       x="403.12167"
+       y="530.4624"
+       rx="6.4999981"
+       height="13.735729"
+       style="fill:#1b89f3;stroke-width:1.05723"
+       id="rect4312"
+       ry="6.4999981" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.9;fill:url(#linearGradient4434);fill-rule:evenodd;stroke-width:1.05723"
+       id="path4426"
+       d="m 424.27525,513.55622 6.34613,6.33957 7.40391,-7.39604 -6.34614,-6.33956 z" />
+  </g>
+</svg>
