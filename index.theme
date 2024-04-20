@@ -5,7 +5,7 @@ Inherits=breeze-dark,Adwaita,hicolor
 FollowsColorScheme=true
 
 # Directory list
-Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable
+Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable,status/scalable
 
 [apps/scalable]
 Size=96
@@ -48,3 +48,11 @@ Context=Places
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+[status/scalable]
+Size=64
+Context=Status
+Type=Scalable
+Type=Scalable
+MinSize=16
+MaxSize=128
