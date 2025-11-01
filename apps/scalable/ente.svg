@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="ente_1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.1371212"
+     inkscape:cx="-62.845633"
+     inkscape:cy="60.791064"
+     inkscape:window-width="2560"
+     inkscape:window-height="1372"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="15.078401"
+       y1="0.98243433"
+       x2="3.4142568"
+       y2="12.785362"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#11998e;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#38ef7d;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient5"
+       x1="11.840652"
+       y1="4.6341066"
+       x2="5.7991414"
+       y2="10.440286"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;fill:none;fill-opacity:0.649331;stroke:url(#linearGradient3);stroke-width:1.32436;stroke-miterlimit:4.4;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect1"
+       width="15.660431"
+       height="15.608976"
+       x="0.63645107"
+       y="0.66217834"
+       ry="4.0988383" />
+    <path
+       d="m 8.8251781,12.692544 c -0.9356947,0 -1.7595143,-0.183071 -2.4714587,-0.549213 C 5.6519471,11.777189 5.1078178,11.278832 4.7213409,10.648251 4.3348737,10.007502 4.141616,9.2803069 4.141616,8.4666549 c 0,-0.82382 0.1881643,-1.5510156 0.564469,-2.1815967 0.3864672,-0.6407486 0.9102666,-1.1391054 1.5713548,-1.49508 0.6610882,-0.3661421 1.4086282,-0.5492131 2.24262,-0.5492131 0.8034799,0 1.5255922,0.1728844 2.1663402,0.5187012 0.650921,0.3356302 1.164534,0.8238196 1.540848,1.4645682 0.376329,0.6305812 0.564469,1.3882886 0.564469,2.2731314 0,0.09154 -0.0053,0.198303 -0.01538,0.320351 -0.01009,0.11186 -0.02018,0.218676 -0.03027,0.320398 H 6.079233 v -1.388289 h 5.415851 l -0.915355,0.411934 c 0,-0.427165 -0.08644,-0.7983912 -0.259327,-1.1136818 C 10.147518,6.7325731 9.908469,6.4884976 9.6033741,6.315594 9.2982558,6.132523 8.9422859,6.0409875 8.5354598,6.0409875 c -0.4068405,0 -0.7678796,0.091535 -1.0831702,0.2746065 C 7.1471713,6.4884784 6.9081603,6.7376664 6.7352615,7.063134 6.5623771,7.378439 6.4759349,7.7547389 6.4759349,8.1920719 v 0.366142 c 0,0.447491 0.096629,0.844164 0.2898865,1.189962 0.2033962,0.3356301 0.4831056,0.5949811 0.8390755,0.7780521 0.366142,0.172884 0.7933077,0.259326 1.2814971,0.259326 0.4373523,0 0.8187359,-0.06612 1.144194,-0.198303 0.33563,-0.132234 0.640749,-0.330537 0.915355,-0.5949811 l 1.266241,1.3730331 c -0.376328,0.427166 -0.849247,0.757712 -1.4188,0.991635 -0.569553,0.223769 -1.2255574,0.33563 -1.9680137,0.33563 z"
+       fill="black"
+       style="fill:url(#linearGradient5);fill-opacity:1;stroke-width:1.27132"
+       id="path1" />
+  </g>
+</svg>
