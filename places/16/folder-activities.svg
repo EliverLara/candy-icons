@@ -1,119 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 16 16"
-   width="16pt"
-   height="16pt"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="start-here-kde-symbolic.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="20.890625"
-     inkscape:cx="32"
-     inkscape:cy="15.652954"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
-     inkscape:document-units="pt"
-     showguides="true" />
-  <defs
-     id="defs3051">
-    <linearGradient
-       id="linearGradient3">
-      <stop
-         style="stop-color:#dc508d;stop-opacity:1;"
-         offset="0"
-         id="stop6" />
-      <stop
-         style="stop-color:#f58b7b;stop-opacity:1;"
-         offset="0.49875644"
-         id="stop10" />
-      <stop
-         style="stop-color:#38f9d7;stop-opacity:1;"
-         offset="0.98000002"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3-1">
-      <stop
-         style="stop-color:#1b89f3;stop-opacity:0;"
-         offset="0"
-         id="stop3" />
-      <stop
-         style="stop-color:#63c605;stop-opacity:0;"
-         offset="0.5"
-         id="stop5" />
-      <stop
-         style="stop-color:#fa8865;stop-opacity:0;"
-         offset="1"
-         id="stop4" />
-    </linearGradient>
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-1"
-       id="linearGradient4"
-       x1="5.2452817"
-       y1="5.4427328"
-       x2="16.754719"
-       y2="16.557266"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3"
-       id="linearGradient10"
-       x1="5.0188608"
-       y1="16.979013"
-       x2="17.188244"
-       y2="4.8138776"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3-1"
-       id="linearGradient1"
-       gradientUnits="userSpaceOnUse"
-       x1="5.2452817"
-       y1="5.4427328"
-       x2="16.754719"
-       y2="16.557266"
-       gradientTransform="matrix(0.33564909,0,0,0.31889971,1.5752912,1.5695973)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3"
-       id="linearGradient2"
-       gradientUnits="userSpaceOnUse"
-       x1="5.0188608"
-       y1="16.979013"
-       x2="17.188244"
-       y2="4.8138776"
-       gradientTransform="matrix(0.33564909,0,0,0.31889971,1.5752912,1.5695973)" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
   </defs>
-  <g
-     transform="matrix(2.7550118,0,0,2.7515734,-6.6062707,-5.9262355)"
-     id="g1"
-     style="fill:url(#linearGradient4);stroke:url(#linearGradient10);stroke-opacity:1">
-    <path
-       id="path1"
-       style="fill:url(#linearGradient1);stroke:url(#linearGradient2);stroke-width:0.327167;stroke-opacity:1"
-       class="ColorScheme-Text"
-       d="m 3.9214379,2.5180676 c -0.2554784,-0.00927 -0.4261004,0.1658469 -0.4261004,0.4145241 0,0.207231 0.1704332,0.4143556 0.4261004,0.4143556 0.2130562,0 0.4261004,-0.2071246 0.4261004,-0.4143556 0,-0.2486772 -0.1491146,-0.4044714 -0.4261004,-0.4145241 z M 6.2743627,2.5263211 5.6031284,3.1640245 6.6099798,4.120748 6.1581044,4.5500946 5.6031284,5.0774718 6.2743627,5.7153433 7.2813943,4.7586199 7.9526285,4.120748 Z M 3.0856395,4.4397682 c -0.2685193,0 -0.5034257,0.2230735 -0.5034257,0.4781933 0,0.25512 0.2349064,0.4783618 0.5034257,0.4783618 0.2685193,0 0.5036059,-0.2232418 0.5036059,-0.4783618 0,-0.2551198 -0.2350866,-0.4781933 -0.5036059,-0.4781933 z m 1.5104573,1.9132785 c -0.3692139,0 -0.6712343,0.2870824 -0.6712343,0.6378722 0,0.35079 0.3020204,0.6377033 0.6712343,0.6377033 0.3692141,0 0.6714145,-0.2869133 0.6714145,-0.6377033 0,-0.3507898 -0.3022004,-0.6378722 -0.6714145,-0.6378722 z" />
-  </g>
+    <path 
+        style="fill:currentColor;fill-opacity:1;stroke:none" 
+        d="M 5 2 C 4.4477153 2 4 2.4477153 4 3 C 4 3.5522847 4.4477153 4 5 4 C 5.5522847 4 6 3.5522847 6 3 C 6 2.4477153 5.5522847 2 5 2 z M 10 2 L 9 3 L 12 6 L 9 9 L 10 10 L 14 6 L 10 2 z M 3.5 6 C 2.6715729 6 2 6.6715729 2 7.5 C 2 8.3284271 2.6715729 9 3.5 9 C 4.3284271 9 5 8.3284271 5 7.5 C 5 6.6715729 4.3284271 6 3.5 6 z M 6.5 11 C 5.6715729 11 5 11.671573 5 12.5 C 5 13.328427 5.6715729 14 6.5 14 C 7.3284271 14 8 13.328427 8 12.5 C 8 11.671573 7.3284271 11 6.5 11 z " 
+        id="path2994" 
+        class="ColorScheme-Text"/>
 </svg>
