@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><defs><linearGradient id="g" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffa31a"/><stop offset="1" stop-color="#f47521"/></linearGradient></defs><g fill="none" stroke="url(#g)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M 41.6 14.5 A 19.5 19.5 0 1 0 41.6 33.5" /><circle cx="27" cy="24" r="10"/><circle cx="30.5" cy="20.5" r="3.6" fill="url(#g)" stroke="none"/></g></svg>
